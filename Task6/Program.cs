@@ -5,11 +5,11 @@ Console.WriteLine("Insert number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number % 2 == 0)
 {
-    Console.WriteLine($"Number {number} is even");
+    Console.WriteLine($"The number {number} is even");
 }
 
 else
 {
-Console.WriteLine($"Number {number} is odd");
+    Console.WriteLine($"The number {number} is odd");
 }
 
