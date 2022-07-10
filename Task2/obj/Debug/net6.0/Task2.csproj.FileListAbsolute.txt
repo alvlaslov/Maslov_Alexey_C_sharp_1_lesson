@@ -1,0 +1,15 @@
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\bin\Debug\net6.0\Task2.exe
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\bin\Debug\net6.0\Task2.dll
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\bin\Debug\net6.0\Task2.pdb
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.dll
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.pdb
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\Code\C#\Home work\Lesson1\Maslov_Alexey_C_sharp_1_lesson\Task2\obj\Debug\net6.0\ref\Task2.dll
